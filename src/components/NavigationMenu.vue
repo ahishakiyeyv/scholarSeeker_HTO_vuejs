@@ -27,7 +27,6 @@ header{
     align-items:center;
     justify-content:space-between;
     position:fixed;
-    border:1px solid red;
     width:100%;
     padding:.5rem 5rem .5rem 8rem;
     z-index:1000;
