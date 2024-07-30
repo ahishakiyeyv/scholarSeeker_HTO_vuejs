@@ -36,7 +36,7 @@
           </svg>
         </span>
         <span class="texts">
-          <span class="text-1">Download form</span>
+          <span class="text-1">GET IT ON</span>
           <span class="text-2">App store</span>
         </span>
       </a>
@@ -92,7 +92,7 @@ export default {
 }
 .actionBtn{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
 }
 
@@ -109,6 +109,7 @@ export default {
   outline: 0;
   transition: all  .2s ease;
   text-decoration: none;
+  margin:0.8rem 1rem;
 }
 
 .playstore-button:hover {
@@ -152,6 +153,7 @@ export default {
   outline: 0;
   transition: all 0.2s ease;
   text-decoration: none;
+  margin:0.8rem 1rem;
 }
 
 .playstore-button:hover {
