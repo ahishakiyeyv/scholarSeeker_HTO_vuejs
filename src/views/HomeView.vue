@@ -36,7 +36,7 @@
           </svg>
         </span>
         <span class="texts">
-          <span class="text-1">GET IT ON</span>
+          <span class="text-1">DOWNLOAD IT ON</span>
           <span class="text-2">App store</span>
         </span>
       </a>
